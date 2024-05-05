@@ -1,10 +1,10 @@
 ## <h1 align="center" style="font-weight: bold;">Budget-App</h1>
 
 <p align="center">
-<a href="#features">Features</a>
-<a href="#skeleton">Project Skeleton</a>
-<a href="#usage">Usage</a>
-<a href="#technologies">Technologies</a> 
+<a href="#features">Features</a>  |
+<a href="#skeleton">Project Skeleton</a>  |
+<a href="#usage">Usage</a>  |
+<a href="#technologies">Technologies</a>  | 
 </p>
 
 <p align="center">
